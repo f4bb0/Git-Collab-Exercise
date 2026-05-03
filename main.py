@@ -7,6 +7,7 @@ def main():
     
     # TODO: 请在下方添加代码
     # 例如加一句 print
+    print("member hhp is here!")
 
     print("--- 演示结束 ---")
 
