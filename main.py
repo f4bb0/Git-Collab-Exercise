@@ -6,6 +6,11 @@ import datetime
 def main():
     print("--- 团队协作演示开始 ---")
     
+    # TODO: 请在下方添加代码
+    # 例如加一句 print
+    print("member hhp is here!")
+    print("welcome the foreign member?")
+
     # Team member contributions all sample names
     team_members = [
         "Alice: Frontend developer",
