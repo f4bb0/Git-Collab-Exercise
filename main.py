@@ -10,6 +10,7 @@ def main():
     # 例如加一句 print
     print("member hhp is here!")
     print("hhp use gitbash commit this time!")
+    print("hhp use github desktop commit this time!")
     print("welcome the foreign member?")
 
     # Team member contributions all sample names
